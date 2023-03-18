@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>374563387960-51e953gl22igbuog165ip6ahur9g8rk6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.374563387960-51e953gl22igbuog165ip6ahur9g8rk6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>374563387960-c01sa637ph8s7icjkf8lsl7lho9bs839.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRCZAkj3h9TcY587JSJ6jUSM7S-tW2F-g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>374563387960</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.weframe.vedanidhi</string>
+	<key>PROJECT_ID</key>
+	<string>vedanidhiv2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vedanidhiv2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:374563387960:ios:659a9f29e49f71a91e84cd</string>
+</dict>
+</plist>

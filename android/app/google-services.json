@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "374563387960",
+    "project_id": "vedanidhiv2",
+    "storage_bucket": "vedanidhiv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374563387960:android:dc1b999458772b4a1e84cd",
+        "android_client_info": {
+          "package_name": "com.weframe.vedanidhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374563387960-c01sa637ph8s7icjkf8lsl7lho9bs839.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weframe.vedanidhi",
+            "certificate_hash": "ebd52fcaa308787b4604a5751db12a314d516864"
+          }
+        },
+        {
+          "client_id": "374563387960-f8ifs9hd5so951caa0tauhiih6jtb09q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weframe.vedanidhi",
+            "certificate_hash": "51b63bbecb942fb00d7af0b1c5437bef28241d9e"
+          }
+        },
+        {
+          "client_id": "374563387960-hg9sm61akq26l9nn61gna2tcilq2mebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnG9X-QHKzJQpUcYYKCHjSy3xiwV8JwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374563387960-hg9sm61akq26l9nn61gna2tcilq2mebk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374563387960-51e953gl22igbuog165ip6ahur9g8rk6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.weframe.vedanidhi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
